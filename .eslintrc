@@ -1,0 +1,9 @@
+ {
+  "extends": "airbnb-base",
+  "rules":{
+      "comma-dangle": ["error", "never"],
+      "no-param-reassign": ["error", { "props": false }],
+      "consistent-return": 0,
+      "no-use-before-define": 0
+    }
+ }
