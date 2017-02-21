@@ -24,7 +24,7 @@ logger.configure({
 // https://developers.google.com/sheets/api/quickstart/nodejs
 
 
-// DRIVE SCOPES - https://developers.google.com/drive/v3/web/about-auth
+// GOOGLE DRIVE SCOPES - https://developers.google.com/drive/v3/web/about-auth
 // https://www.googleapis.com/auth/drive.metadata.readonly
 // https://www.googleapis.com/auth/drive
 // https://www.googleapis.com/auth/drive.file

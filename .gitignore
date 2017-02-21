@@ -3,6 +3,8 @@ config.json
 client_secret.json
 backup_file_list.json
 
+.vscode
+
 ### Node ###
 # Logs
 logs
